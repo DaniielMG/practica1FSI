@@ -23,3 +23,14 @@ gestión de tamaño.
 #### El ultimo archivo, es el "utils.py" en este archivo se encuentran los métodos que crean la pilas, la colas etc. Estaos métodos serán usados con posterioridad para elaborar el DFS y el BFS. 
 
 ## ***Comparación de estrategias***
+
+### Ahora, veremos las diferentes estrategias enn las 5 direcciones propuestas.
+![image](https://github.com/DaniielMG/practica1FSI/assets/95304769/ca7823bb-60ac-4b6e-a71c-14261fff6de2)
+![image](https://github.com/DaniielMG/practica1FSI/assets/95304769/dbd853fa-5baa-4bb6-985b-f2fbb01ae411)
+![image](https://github.com/DaniielMG/practica1FSI/assets/95304769/8260439e-327d-4d84-88dc-27cfa342f37d)
+![image](https://github.com/DaniielMG/practica1FSI/assets/95304769/251a6782-b54c-4b72-986e-ef90c6dced8f)
+![image](https://github.com/DaniielMG/practica1FSI/assets/95304769/260bd8a2-4e8d-4328-9d2c-f523a08f8fc0)
+
+
+
+
