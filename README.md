@@ -40,6 +40,9 @@ gestión de tamaño.
 #### https://chat.openai.com
 #### Material de la asignatura
 
+## ***Realización***
+#### Daniel Medina González
+#### Amai Suárez Navarro
 
 
 
