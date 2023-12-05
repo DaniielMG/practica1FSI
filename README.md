@@ -31,6 +31,15 @@ gestión de tamaño.
 ![image](https://github.com/DaniielMG/practica1FSI/assets/95304769/251a6782-b54c-4b72-986e-ef90c6dced8f)
 ![image](https://github.com/DaniielMG/practica1FSI/assets/95304769/260bd8a2-4e8d-4328-9d2c-f523a08f8fc0)
 
+## ***Recursos empleados***
+### Para realizar dicha práctica, hemos hecho uso de diferentes páginas y herramientas, aparte del material proporcionado por la asignatura.
+
+#### http://jc-info.blogspot.com/2012/04/star-algorithm-prolog-code.html
+#### https://www.youtube.com/watch?v=qeXbUzNQUlw
+#### https://www.youtube.com/watch?v=OffCfUstOXQ
+#### https://chat.openai.com
+#### Material de la asignatura
+
 
 
 
