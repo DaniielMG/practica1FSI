@@ -93,9 +93,6 @@ class Node:
 # ______________________________________________________________________________
 ## Uninformed Search algorithms   EDITADO :D
 
-#Hemos editado el método que se encargaba de buscar gráfos para que
-#Nos indique los nodos generados y visitados, así como el coste total
-#si encontrase un nodo. Si no encuentra nada generará None.
 
 def graph_search(problem, fringe):
     """Search through the successors of a problem to find a goal.
@@ -132,6 +129,7 @@ def depth_first_graph_search(problem):
     """Search the deepest nodes in the search tree first. [p 74]"""
     return graph_search(problem, Stack())
 
+### B&B Y B&BS
 def bab(problem):
     return graph_search(problem, babg())
 

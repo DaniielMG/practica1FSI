@@ -543,15 +543,9 @@ class FIFOQueue(Queue):
             self.start = 0
         return e
 
- ###EDITADO
-   # Toma un elemento y devuelve el coste del camino asociado a ese elemento.
+ ### ESCRIBIR AQUI
 def takePathCost(elem):
     return elem.path_cost
-
-# En resumen, esta implementación de cola de prioridad (babg) parece
-# diseñada específicamente para ser utilizada en algoritmos de
-# búsqueda informada donde se necesita mantener los nodos ordenados
-# según algún criterio de prioridad (en este caso, el costo del camino).
 
 class babg(Queue):
 
@@ -577,10 +571,6 @@ class babg(Queue):
             self.start = 0
         return element
 
-# En resumen, esta implementación de cola de prioridad (babsubg)
-# parece diseñada específicamente para ser utilizada en algoritmos de
-# búsqueda informada, donde la prioridad se determina por una
-# combinación del costo del camino y una heurística asociada a cada nodo.
 class babsubg(Queue):
 
     def __init__(self, problem):
@@ -609,12 +599,6 @@ class babsubg(Queue):
             self.start = 0
         return element
 
-#Diferencia entre bab y babsg :
-# radica en la función de evaluación que utilizan para determinar la
-# prioridad de los nodos en la cola de prioridad. bab se centra
-# exclusivamente en el costo acumulado del camino, mientras que
-# babsub utiliza una heurística adicional que subestima el costo
-# restante hasta el objetivo. En definitiva babsubg puede llegar a ser más eficiente.
 
 
 
